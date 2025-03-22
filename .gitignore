@@ -1,0 +1,35 @@
+# Node modules
+node_modules/
+
+# Environment variables
+.env
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+
+# Build directories
+dist/
+build/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Optional: database files if local
+*.sqlite
+*.db
+
+# Optional: coverage reports
+coverage/
+
+# Optional: IDE settings
+.vscode/
+.idea/
+
+# Optional: system files
+*.swp
+
+# Optional: package-lock if using yarn
+yarn.lock

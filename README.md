@@ -4,4 +4,4 @@
 **Backend:** [github.com/vdabel/backend-crud-product](https://github.com/vdabel/backend-crud-product)
 
 ![screenshot](https://github.com/user-attachments/assets/6289d729-5889-41d0-87a3-ebcc2ebfe748)  
-Nota: Esperar a que cargue los datos porque el servicion donde se desplegó es gratiuto.
+Nota: Esperar a que cargue los datos porque el servicio donde se desplegó es gratiuto.

@@ -3,4 +3,5 @@
 **Frontend:** [github.com/vdabel/frontend-crud-product](https://github.com/vdabel/frontend-crud-product)  
 **Backend:** [github.com/vdabel/backend-crud-product](https://github.com/vdabel/backend-crud-product)
 
-![screenshot](https://github.com/user-attachments/assets/6289d729-5889-41d0-87a3-ebcc2ebfe748)
+![screenshot](https://github.com/user-attachments/assets/6289d729-5889-41d0-87a3-ebcc2ebfe748)  
+Nota: Esperar a qué cargue los datos porque el servicion donde se desplegó es gratiuto.
